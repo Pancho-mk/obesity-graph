@@ -1,5 +1,5 @@
 # obesity-graph
-This is a obesity graph of the Top 5 counties in Illinois USA made for 2019.
+This is a obesity graph of the Top 5 counties in Illinois USA from the 2015 CDC BRFSS Survey.
 
 The information are downloaded from: https://catalog.data.gov/dataset/illinois-obesity-by-county-baf9e
 
